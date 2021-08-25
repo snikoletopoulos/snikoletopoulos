@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @snikoletopoulos
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React and Node.js
-- 💞️ I’m looking to collaborate on web apps
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning React Native
+- 💞️ I’m looking to collaborate on apps
 - 📫 How to reach me: email me
