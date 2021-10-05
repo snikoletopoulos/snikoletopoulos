@@ -6,13 +6,13 @@
 
 ### Hi there, I'm Stavros 👋
 
-## I'm a University Student, Father, Developer, and Musisian!!
+## I'm a University Student, Learner, Developer, and Musisian!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I just started learning programming... this February to be exact! 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- 👯 I’m looking to collaborate with other software engeneers
+- 🥅 2021 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to coding(daaa!) and play guitar / sing
 
 ### Connect with me:
 
@@ -47,23 +47,16 @@
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-    </details>
+</details>
 
-    <details>
-      <summary>:zap: GitHub Stats</summary>
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-        <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
-        </details>
+</details>
 
-        [website]: https://codeSTACKr.com
-        [course]: http://vsCodeHero.com
-        [twitter]: https://twitter.com/codeSTACKr
-        [youtube]: https://youtube.com/codeSTACKr
-        [instagram]: https://instagram.com/codeSTACKr
-        [linkedin]: https://linkedin.com/in/codeSTACKr
-        [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-        [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-        [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-        [reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
-
+[facebook]: https://facebook.com/snikoletopoulos
+[instagram]: http://instagram.com/snikoletopoulos
+[twitter]: https://twitter.com/snikoletopoulos
+[linkedin]: https://linkedin.com/in/snikoletopoulos
