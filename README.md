@@ -10,10 +10,10 @@
 
 ### Connect with me:
 
-[<img align="left" title="Stavros Nikoletopoulos | Facebook" alt="Stavros Nikoletopoulos | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" title="Stavros Nikoletopoulos | Instagram" alt="Stavros Nikoletopoulos | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" title="Stavros Nikoletopoulos | Twitter" alt="Stavros Nikoletopoulos | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" title="Stavros Nikoletopoulos | LinkedIn" alt="Stavros Nikoletopoulos | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" title="Stavros Nikoletopoulos | Facebook" alt="Stavros Nikoletopoulos | Facebook" style="color:white;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" title="Stavros Nikoletopoulos | Instagram" alt="Stavros Nikoletopoulos | Instagram" style="color:white;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" title="Stavros Nikoletopoulos | Twitter" alt="Stavros Nikoletopoulos | Twitter" style="color:white;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" title="Stavros Nikoletopoulos | LinkedIn" alt="Stavros Nikoletopoulos | LinkedIn" style="color:white;" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
