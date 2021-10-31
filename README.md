@@ -40,15 +40,14 @@
 <br />
 <br />
 
-<details>
+<!--<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="Stavros's GitHub Stats" src="https://github-readme-stats-snikoletopoulos.vercel.app/api?username=snikoletopoulos&show_icons=true&hide_border=true" />
 
-</details>
+</details> -->
 
 [facebook]: https://facebook.com/Nikero41
 [instagram]: http://instagram.com/snikoletopoulos
 [twitter]: https://twitter.com/snikoletopoulos
 [linkedin]: https://linkedin.com/in/snikoletopoulos
-https://github-readme-stats-snikoletopoulos.vercel.app/
