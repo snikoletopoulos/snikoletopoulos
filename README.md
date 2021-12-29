@@ -2,9 +2,9 @@
 
 ## I'm a University Student, Learner, Developer, and Musician!!!
 
-- 🔭 I just started learning programming... this February to be exact!
+- 🔭 One year since my first, real, line of code 💪
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other software engeneers
+- 👯 I’m looking to collaborate with other software engineers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to coding(daaa!) and play guitar / sing
 
