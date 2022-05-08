@@ -2,10 +2,8 @@
 
 ## I'm a University Student, Learner, Developer, and Musician!!!
 
-- 🔭 One year since my first, real, line of code 💪
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other software engineers
-- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to coding(daaa!) and play guitar / sing
 
 ### Connect with me:
