@@ -1,10 +1,21 @@
-### Hi there, I'm Stavros 👋
 
-## I'm a University Student, Learner, Developer, and Musician!!!
+### Hi there 👋, I'm Stavros
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other software engineers
-- ⚡ Fun fact: I love to coding(daaa!) and play guitar / sing
+#### React/Typescript  lover
+
+![React/Typescript lover](https://images.unsplash.com/photo-1555949963-ff9fe0c870eb?crop=entropy&cs=tinysrgb&fm=jpg&ixlib=rb-1.2.1&q=80&raw_url=true&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=770&h=250)
+
+<!-- Description -->
+
+Skills: React.js / React Native / Typescript / Node.js / SASS
+
+- 🔭 I’m currently working on a recipe app
+- 🌱 I’m currently learning Nest.js
+- 👯 I’m looking to collaborate on anything React
+- 🤔 I’m looking for help with contributing to open source
+- 📫 How to reach me: Sent me an email or DM me 😉
+- 😄 Pronouns: He/His
+- ⚡ Fun fact:  I love to coding(daaa!) and play guitar / sing
 
 ### Connect with me:
 
@@ -38,12 +49,11 @@
 <br />
 <br />
 
-<!--<details>
-  <summary>:zap: GitHub Stats</summary>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snikoletopoulos)](https://github.com/anuraghazra/github-readme-stats)
 
-  <img align="left" alt="Stavros's GitHub Stats" src="https://github-readme-stats-snikoletopoulos.vercel.app/api?username=snikoletopoulos&show_icons=true&hide_border=true" />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=snikoletopoulos&show_icons=true)  
 
-</details> -->
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=snikoletopoulos)  
 
 [facebook]: https://facebook.com/Nikero41
 [instagram]: http://instagram.com/snikoletopoulos
