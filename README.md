@@ -4,13 +4,17 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Developer, Designer, Project Manager
 ------------------------------------
 
-*   🌍  I'm based in Athens, Greece
-*   ✉️  You can contact me at [snikoletopoulos@hotmail.com](mailto:snikoletopoulos@hotmail.com)
-*   🚀  I'm currently working on [100mentors](http://www.100mentors.com)
-*   🧠  I'm learning advance Typescript
-*   🤝  I'm open to collaborating on interesting projects<a href="https://www.twitter.com/SNikoletopoulos" target="_blank" rel="noreferrer"><img
-                  src="https://img.shields.io/twitter/follow/SNikoletopoulos?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-                /></a>### Skills 
+* 🌍  I'm based in Athens, Greece
+* ✉️  You can contact me at [snikoletopoulos@hotmail.com](mailto:snikoletopoulos@hotmail.com)
+* 🚀  I'm currently working on [100mentors](http://www.100mentors.com)
+* 🧠  I'm learning advance Typescript
+* 🤝  I'm open to collaborating on interesting projects
+
+<a href="https://www.twitter.com/SNikoletopoulos" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/SNikoletopoulos?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+### Skills
+
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
@@ -29,19 +33,14 @@ Developer, Designer, Project Manager
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-<p align="left">
-                          
-  <a href="https://www.facebook.com/Nikero41" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
-                          
-  <a href="https://www.github.com/snikoletopoulos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-  <a href="http://www.instagram.com/snikoletopoulos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-  <a href="https://www.linkedin.com/in/snikoletopoulos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-  <a href="https://www.twitter.com/SNikoletopoulos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/snikoletopoulos"><img src="https://github-readme-stats.vercel.app/api?username=snikoletopoulos&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="snikoletopoulos's GitHub stats" /></a><a href="https://github.com/snikoletopoulos" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snikoletopoulos&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Socials
+
+<p align="left"> <a href="https://www.facebook.com/Nikero41" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/snikoletopoulos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/snikoletopoulos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/snikoletopoulos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/SNikoletopoulos" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/snikoletopoulos"><img src="https://github-readme-stats.vercel.app/api?username=snikoletopoulos&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="snikoletopoulos's GitHub stats" /></a>
+
+<a href="https://github.com/snikoletopoulos" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snikoletopoulos&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
