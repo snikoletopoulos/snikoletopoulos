@@ -7,7 +7,7 @@ Developer, Designer, Project Manager
 * 🌍  I'm based in Athens, Greece
 * ✉️  You can contact me at [snikoletopoulos@hotmail.com](mailto:snikoletopoulos@hotmail.com)
 * 🚀  I'm currently working on [100mentors](http://www.100mentors.com)
-* 🧠  I'm learning advance Typescript
+* 🧠  I'm learning Testing (Vitest & Cypress)
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.twitter.com/SNikoletopoulos" target="_blank" rel="noreferrer"><img
