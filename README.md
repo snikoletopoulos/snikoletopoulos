@@ -5,6 +5,7 @@ Developer, Designer, Project Manager
 ------------------------------------
 
 * 🌍  I'm based in Athens, Greece
+* 🧳  I'm looking to relocate to the Netherlands
 * ✉️  You can contact me at [snikoletopoulos@hotmail.com](mailto:snikoletopoulos@hotmail.com)
 * 🚀  I'm currently working on [100mentors](http://www.100mentors.com)
 * 🧠  I'm learning native mobile development (Swift & Kotlin) and Rust
