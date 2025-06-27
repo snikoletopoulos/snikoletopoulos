@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌍 I'm based in Athens, Greece<br>🚀 I'm currently working on {insert your open source project here}<br>🧠 I'm learning native mobile development (Swift & Kotlin) and Rust<br>🤝 I'm open to collaborating on Rust projects<br>✉️ You can contact me at snikoletopoulos@hotmail.com
+🌍 I'm based in Utrecht, Netherlands<br>🚀 I'm currently working on {insert your open source project here}<br>🧠 I'm learning Go and TUIs<br>🤝 I'm open to collaborating on Go projects<br>✉️ You can contact me at snikoletopoulos@hotmail.com
 
 
 ## 🌐 Socials:
